@@ -1,7 +1,7 @@
 ## My Portfolio
 
 ### `by Gazi Mufti Mahmood`
-Go to mufti199.github.io[](https://mufti199.github.io/)
+Go to [mufti199.github.io](https://mufti199.github.io/)
 
 
 Credits:
